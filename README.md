@@ -37,7 +37,7 @@ Chosen because it helps understand core concepts like memory handling, arrays, a
 
 ---
 
-## 🔧 Optional Enhancements (For Extra Marks)
+## 🔧 Optional Enhancements 
 - Ensure at least one char from each category  
 - Remove confusing characters (I, l, 0, O)  
 - Password strength meter  
