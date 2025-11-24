@@ -82,6 +82,26 @@ gcc -o password src/password.c
 MIT License  
 
 ---
+# 📸 Output Screenshots
+
+Below are the output screenshots of the **Password Generator (C)** project.
+
+---
+
+## 🖼️ Screenshot 1
+
+![Screenshot 1](https://raw.githubusercontent.com/ankstyle123-afk/Password-generator/2c5ae61aa6d188de59899b7840c1df73b4677a07/Screenshot%202025-11-24%20152758.png)
+
+---
+
+## 🖼️ Screenshot 2
+
+![Screenshot 2](https://raw.githubusercontent.com/ankstyle123-afk/Password-generator/2c5ae61aa6d188de59899b7840c1df73b4677a07/Screenshot%202025-11-24%20152820.png)
+
+---
+
+You can include this file as your `README.md` in the **screenshots** section or directly inside your main repository.
+
 
 ## 👤 Author
 **Name:** Ankit kumar sahu  
