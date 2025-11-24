@@ -95,8 +95,6 @@ Below are the output screenshots of the **Password Generator (C)** project.
 
 ---
 
-You can include this file as your `README.md` in the **screenshots** section or directly inside your main repository.
-
 
 ## 👤 Author
 **Name:** Ankit kumar sahu  
