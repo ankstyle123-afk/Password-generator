@@ -52,11 +52,6 @@ gcc -o password src/password.c
 
 ---
 
-## 📸 Screenshots of Output
-(Add your own screenshot here)  
-
----
-
 ## 📚 Explanation of Techniques Used
 - `rand()` + `srand(time(NULL))` for randomness  
 - Character array manipulation  
