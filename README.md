@@ -3,6 +3,7 @@
 **What is unique in project.**
 
 - This submission focuses on a *minimal, easy-to-understand C implementation* suitable for beginners learning random number usage, arrays, and strings in C. Unlike other similar projects, this README contains detailed documentation, structured explanations, optional enhancements, security notes, and a polished, clean presentation.
+- Added a animation of Generating password.
 
 ---
 
